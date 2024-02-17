@@ -1,10 +1,10 @@
-# Hello, I'm Saketh Kante! 👋
+# Hello, I'm Satya 👋
 
-I'm a 3rd-year student pursuing a Bachelor of Engineering in Computer Science and Technology, with a passion for Data Science, DSA, and Web3 development.
+I'm a 2rd-year student pursuing a Bachelor of Engineering in Computer Science and Technology, with a passion for Data Science, DSA, and Web3 development.
 
 🌱 Currently Learning: Data Structures and Algorithms, Data Science, Web3 Development
 🎯 Goal: Building innovative solutions and contributing to open source projects
-💬 Ask me about: Python, Machine Learning, Blockchain, Web Development
+💬 Ask me about: Machine Learning, Blockchain, Web Development
 
 ## 🚀 My Interests
 
@@ -19,10 +19,6 @@ I'm a 3rd-year student pursuing a Bachelor of Engineering in Computer Science an
 - **Tools:** Jupyter Notebook, VS Code, Git
 - **Frameworks:** TensorFlow, Flask
 - **Web Technologies:** HTML, CSS, React
-
-## 🌐 Connect with Me
-
-- 📫 Email: [saketh43423@gmail.com](mailto:saketh43423@gmail.com)
 
 ## 📚 Projects
 
